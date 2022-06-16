@@ -1,0 +1,135 @@
+body {
+padding: 0;
+margin: 0;
+color: #000;
+font-size: 15px;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-weight: 400;
+letter-spacing: 0.03em;
+line-height: 1.55em;
+height: 100%;
+}
+
+p {
+    letter-spacing: 0.03em;
+    line-height: 1.55em;
+    margin: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 700;
+    padding: 0;
+    margin-left: 30px;
+    line-height: 1.4em;
+}
+
+.container {
+    background-color: rgb(236, 236, 236);
+    width: 1110px;
+    height: 760px;
+    margin: 0px auto;
+    border-radius: 2px;
+    border: 1px solid rgb(230, 230, 230);
+}
+
+.nav {
+    display: flex;
+    padding: 0 0 0 10px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header {
+    padding: 52px 0 0 0;
+}
+
+.header_content {
+    display: flex;
+}
+
+a {
+    color: #010D14;
+    text-decoration: none;
+}
+
+.offer {
+
+}
+
+.place {
+    font-size: 18px;
+    margin-bottom: 21px;
+}
+
+.mail {
+    border: 1px solid rgb(230, 230, 230);
+    border-radius: 1px;
+    display: inline-block;
+    margin: 30px;
+    padding: 8px;
+    width: 180px;
+    font-size: 17px;
+    font-weight: bold;
+    padding-right: 10px;
+    color: rgb(32, 32, 32);
+}
+
+.mail:hover {
+    color: rgb(92, 92, 92);
+    background-color: rgb(240, 240, 240);
+}
+
+offer-title {
+    font-size: 45px;
+    letter-spacing: 0.07em;
+    margin-left: 15px;
+}
+
+.dess {
+    font-size: 16px;
+    margin-bottom: 21px;
+    margin-top: 21px;
+    margin-left: 15px;
+}
+
+.btn {
+    color: white;
+    background: rgb(97, 157, 255);
+    padding: 18px 30px;
+    font-weight: 700;
+    display: block;
+    text-align: center;
+    width: 440px;
+}
+
+.btn:hover{
+    background: rgb(117, 170, 255);
+}
+
+.btn:active {
+    background: rgb(72, 114, 182);
+}
+
+.intro {
+    background: rgb(214, 214, 214);
+    padding: 30px;
+    width: 441px;
+    margin: 30px 0 0 15px;
+}
+
+.intro-title {
+    font-weight: 700;
+    margin-top: 10px;
+}
+
+
+
+.image-glav {
+    margin: 25px 15px 0 45px;
+    height: 28%;
+    width: 48%;
+   
+}
+
+
